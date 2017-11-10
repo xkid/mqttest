@@ -1,6 +1,6 @@
 # MQTT Broker Demo
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https://github.com/berkedel/mqttest/tree/master&template=https://github.com/berkedel/mqttest/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https://github.com/xkid/mqttest/tree/master&template=https://github.com/xkid/mqttest/tree/master)
 
 This is a MQTT broker demo using [mosca](https://github.com/mcollina/mosca) module.
 This sample is ready to deploy to [Heroku](https://dashboard.heroku.com/).
